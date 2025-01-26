@@ -33,7 +33,7 @@ To run this project, you need the following:
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run test.py
    ```
 
 ## Usage
@@ -44,7 +44,7 @@ To run this project, you need the following:
 
 ## Code Overview
 
-The main functionality is implemented in the `app.py` file:
+The main functionality is implemented in the `test.py` file:
 
 - **Image Upload:**
   Allows users to upload an image via Streamlit's `file_uploader` widget.
